@@ -1,0 +1,2 @@
+# sm
+spring mvc init
