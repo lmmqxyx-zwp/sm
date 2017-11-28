@@ -17,7 +17,8 @@
 *.jar
 *.war
 *.ear
-*.zip
+#此处先做提交 TODO
+#*.zip
 *.tar.gz
 *.rar
 
